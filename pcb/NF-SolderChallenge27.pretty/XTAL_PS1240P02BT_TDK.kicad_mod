@@ -1,0 +1,237 @@
+(footprint "XTAL_PS1240P02BT_TDK"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(tags "PS1240P02BT ")
+	(property "Reference" "REF**"
+		(at 2.5 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4b8396d3-ea8d-4e9d-9eef-93ab62133f21")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "XTAL_PS1240P02BT_TDK"
+		(at 2.3 7.65 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9354587d-e002-41fc-9e2d-54bd582a8aae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2de4c853-2877-46a7-bbc9-0cdc749d7a11")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "96fc72c2-72b8-4a58-a60d-ba35e7b21c9c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -5.374 0)
+		(end -4.104 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "696bec57-fbc4-45cc-affa-00422889b42c")
+	)
+	(fp_line
+		(start -4.739 -0.635)
+		(end -4.739 0.635)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4b81ae5c-2a34-4ad8-8d7e-020521b9799b")
+	)
+	(fp_circle
+		(center 2.5 0)
+		(end 8.977 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "17b4e01f-66e0-452e-9ffb-2df4399428ba")
+	)
+	(fp_line
+		(start -4.104 -2.719294)
+		(end -0.219293 -6.604)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fbcfe663-0115-4d41-962b-7d1a2e23c6ea")
+	)
+	(fp_line
+		(start -4.104 2.719294)
+		(end -4.104 -2.719294)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "21b0e24f-f4c7-420e-b883-12b934bf5c18")
+	)
+	(fp_line
+		(start -0.219293 -6.604)
+		(end 5.219294 -6.604)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8b9a877f-44da-49de-94b5-8ecdfe3b6ee7")
+	)
+	(fp_line
+		(start -0.219293 6.604)
+		(end -4.104 2.719294)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a468266f-5ea6-4c4c-bdf5-7e45b3969e20")
+	)
+	(fp_line
+		(start 5.219294 -6.604)
+		(end 9.104 -2.719294)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5d110a33-0157-47d4-bbae-0a12dcd0c082")
+	)
+	(fp_line
+		(start 5.219294 6.604)
+		(end -0.219293 6.604)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9ddc45b9-1abc-4af5-8367-c8fddf0f4da2")
+	)
+	(fp_line
+		(start 9.104 -2.719294)
+		(end 9.104 2.719294)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bb38d60d-e188-456f-b94b-e0bc28926c24")
+	)
+	(fp_line
+		(start 9.104 2.719294)
+		(end 5.219294 6.604)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "58e577a6-7748-44bd-b883-7a0d3a51ce47")
+	)
+	(fp_line
+		(start -5.374 0)
+		(end -4.104 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "49489838-dab9-4a23-8fe9-090949e55c8e")
+	)
+	(fp_line
+		(start -4.739 -0.635)
+		(end -4.739 0.635)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e601d4f9-c52e-4e0c-8431-04ae8c7e74a5")
+	)
+	(fp_circle
+		(center 2.5 0)
+		(end 8.85 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "85b98150-8137-46bf-bcd7-9da1ff5707e2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.5 2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "bcc772c7-65e2-4af5-9157-bb4e2428edb1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.4224 1.4224)
+		(drill 0.9144)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "597824b9-d963-4ca8-9c4c-9028ee9392b7")
+	)
+	(pad "2" thru_hole circle
+		(at 5 0)
+		(size 1.4224 1.4224)
+		(drill 0.9144)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "21cc6f35-ace9-4af7-a733-3c9edf6b411e")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/XTAL_PS1240P02BT_TDK.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
