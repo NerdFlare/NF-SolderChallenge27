@@ -472,7 +472,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "NF-SolderChallnege27.kicad_pro",
+    "filename": "NF-SolderChallenge27.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -627,8 +627,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "NF-SolderChallnege27.kicad_sch",
-        "name": "Root",
+        "filename": "NF-SolderChallenge27.kicad_sch",
+        "name": "NF-SolderChallenge27",
         "uuid": "3025ac80-ccbf-44da-85c9-b2492f0a323c"
       }
     ],
@@ -638,7 +638,7 @@
   "sheets": [
     [
       "3025ac80-ccbf-44da-85c9-b2492f0a323c",
-      "Root"
+      "NF-SolderChallenge27"
     ]
   ],
   "text_variables": {},

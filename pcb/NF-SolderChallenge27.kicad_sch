@@ -3925,7 +3925,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060SS75000.pdf"
 			(at 198.12 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -3965,7 +3965,7 @@
 			(uuid "5fbf4cc4-432c-45d8-bc60-1172f26778b4")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "D4")
 					(unit 1)
@@ -4047,7 +4047,7 @@
 			(uuid "d0cb82b1-eb34-4d96-8905-37eb8096605f")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "XTAL1")
 					(unit 1)
@@ -4125,7 +4125,7 @@
 			(uuid "d5b3b1ae-cce3-4ff0-9fee-823f9d2c5f4a")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "#PWR02")
 					(unit 1)
@@ -4178,7 +4178,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150080SS75000.pdf"
 			(at 207.01 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -4218,7 +4218,7 @@
 			(uuid "7eef9834-6eee-4b1f-b0db-96629903375d")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "D5")
 					(unit 1)
@@ -4271,7 +4271,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/151051RS11000.pdf"
 			(at 168.91 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -4311,7 +4311,7 @@
 			(uuid "52479039-fdaf-42e6-923b-24fb609db07f")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "D2")
 					(unit 1)
@@ -4393,7 +4393,7 @@
 			(uuid "84cf3e33-6baf-4c4f-a436-5722cf078562")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "R4")
 					(unit 1)
@@ -4475,7 +4475,7 @@
 			(uuid "6d9cbad1-951d-4fa6-8474-4b17674471b2")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "R2")
 					(unit 1)
@@ -4528,7 +4528,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/151051RS11000.pdf"
 			(at 157.48 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -4568,7 +4568,7 @@
 			(uuid "92577db6-a80d-4c70-b261-377101bb00ad")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "D1")
 					(unit 1)
@@ -4621,7 +4621,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150040RS73240.pdf"
 			(at 189.23 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -4661,7 +4661,7 @@
 			(uuid "7a45f6bb-b012-4b28-809a-c00d8f8f0081")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "D3")
 					(unit 1)
@@ -4749,7 +4749,7 @@
 			(uuid "c6ea677d-e0ec-41ae-8a26-f217d5ebe69c")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "D7")
 					(unit 1)
@@ -4831,7 +4831,7 @@
 			(uuid "5f0c7494-fbca-49ed-b6cf-52dc6571ae91")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "R6")
 					(unit 1)
@@ -4909,7 +4909,7 @@
 			(uuid "32e13c68-5bbd-4800-94a2-d01b194b7afa")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "#PWR07")
 					(unit 1)
@@ -5024,7 +5024,7 @@
 			(uuid "8ca55e95-b425-490e-aa17-b70b2bdd56a0")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "BT1")
 					(unit 1)
@@ -5077,7 +5077,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150120SS75000.pdf"
 			(at 215.9 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5117,7 +5117,7 @@
 			(uuid "52b203e7-e55f-48cc-8902-7ddeb9f70cae")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "D6")
 					(unit 1)
@@ -5195,7 +5195,7 @@
 			(uuid "91c0e527-a3ab-49ee-89aa-73428ae2d5e0")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "#PWR05")
 					(unit 1)
@@ -5275,7 +5275,7 @@
 			(uuid "0f7c8c19-191b-4ccf-81f0-c0513d64bd67")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "SW1")
 					(unit 1)
@@ -5353,7 +5353,7 @@
 			(uuid "d1468b68-fb12-4ae3-9b76-9aab8b88bd7a")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "#PWR01")
 					(unit 1)
@@ -5435,7 +5435,7 @@
 			(uuid "12c85384-8d6e-4310-9368-14f7a68990dd")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "R5")
 					(unit 1)
@@ -5554,7 +5554,7 @@
 			(uuid "022611be-b48e-4ada-bdfe-18b044410e60")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "U1")
 					(unit 1)
@@ -5636,7 +5636,7 @@
 			(uuid "c22da878-bd70-473a-8b4a-b6460ec188a5")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "C1")
 					(unit 1)
@@ -5653,7 +5653,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b216c7b0-bd72-4df4-96f3-b68191b15e96")
 		(property "Reference" "D9"
@@ -5724,7 +5724,7 @@
 			(uuid "bb1b3609-e7a8-4ead-978c-300d69de8ae8")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "D9")
 					(unit 1)
@@ -5802,7 +5802,7 @@
 			(uuid "0ada1d4b-1cd2-478c-ac24-8004c45e0054")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "#PWR08")
 					(unit 1)
@@ -5884,7 +5884,7 @@
 			(uuid "d979c498-42bb-4418-b311-712a5d3906fd")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "R3")
 					(unit 1)
@@ -5972,7 +5972,7 @@
 			(uuid "c07b0028-e80c-4223-b4c6-f842c85ccc8b")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "D8")
 					(unit 1)
@@ -6050,7 +6050,7 @@
 			(uuid "40f7926c-4f66-45ce-af68-cd6d8195ab7f")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "#PWR03")
 					(unit 1)
@@ -6132,7 +6132,7 @@
 			(uuid "d1abc56d-e16f-438f-9810-fd881d774343")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "C2")
 					(unit 1)
@@ -6214,7 +6214,7 @@
 			(uuid "7363ffb6-13ce-4ee3-9ad9-3aedf8f7ae8d")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "J1")
 					(unit 1)
@@ -6292,7 +6292,7 @@
 			(uuid "d155612e-e3ed-436a-9a03-e58a13f639e4")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "#PWR04")
 					(unit 1)
@@ -6370,7 +6370,7 @@
 			(uuid "7e81d03d-f630-4167-a894-ccb8b8a826d6")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "#PWR06")
 					(unit 1)
@@ -6452,7 +6452,7 @@
 			(uuid "76203b12-8d47-4981-81b7-5bcb02d5dab3")
 		)
 		(instances
-			(project "NF-SolderChallnege27"
+			(project "NF-SolderChallenge27"
 				(path "/3025ac80-ccbf-44da-85c9-b2492f0a323c"
 					(reference "R1")
 					(unit 1)
